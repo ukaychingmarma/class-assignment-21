@@ -12,3 +12,13 @@
 /* ---------Blockquote Section---------- */
 .blockquote-section{
 }
+/* ---------Stretched-Section----------- */
+/* ---------Stretched-Section----------- */
+.stretched-section .col{
+     width:300px !important;
+}
+/* --------footer-section---------- */
+/* --------footer-section---------- */
+footer{
+
+}
